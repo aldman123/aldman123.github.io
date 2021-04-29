@@ -2,6 +2,7 @@
   "name": "aldblog",
   "version": "0.0.0",
   "private": true,
+  "homepage": "http://aldman123.github.io/docs",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
