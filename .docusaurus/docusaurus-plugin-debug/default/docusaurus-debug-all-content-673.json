@@ -1,0 +1,124 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/aldman123/aldman123.github.io/docs",
+          "versionEditUrlLocalized": "https://github.com/aldman123/aldman123.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\alexa\\Documents\\aldman123.github.io\\sidebars.js",
+          "contentPath": "C:\\Users\\alexa\\Documents\\aldman123.github.io\\docs",
+          "contentPathLocalized": "C:\\Users\\alexa\\Documents\\aldman123.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "welcome",
+          "sidebars": {},
+          "permalinkToSidebar": {},
+          "docs": [
+            {
+              "unversionedId": "welcome",
+              "id": "welcome",
+              "isDocsHomePage": false,
+              "title": "Welcome!",
+              "description": "This is a blog written in markdown.",
+              "source": "@site/docs/welcome.md",
+              "sourceDirName": ".",
+              "slug": "/welcome",
+              "permalink": "/docs/welcome",
+              "editUrl": "https://github.com/aldman123/aldman123.github.io/docs/welcome.md",
+              "version": "current",
+              "frontMatter": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "ulfric-is-a-bad-boy",
+          "metadata": {
+            "permalink": "/blog/ulfric-is-a-bad-boy",
+            "editUrl": "https://github.com/aldman123/aldman123.github.io/blog/blog/2020-04-28 Ulfric is a bad boy.md",
+            "source": "@site/blog/2020-04-28 Ulfric is a bad boy.md",
+            "title": "\\[Draft\\] Ulfric is a bad, despite Skyrim convincing you otherwise",
+            "description": "I recently replayed Skyrim for the first time since I was 2014. I vividly remember battling for the rebellion. I remember fighting the evil Empire with rebels at my side. I remember slaying dragons with my sword and shield. What I don't remember is all the Nordic racism.",
+            "date": "2020-04-28T00:00:00.000Z",
+            "formattedDate": "April 27, 2020",
+            "tags": [
+              {
+                "label": "skyrim",
+                "permalink": "/blog/tags/skyrim"
+              },
+              {
+                "label": "video games",
+                "permalink": "/blog/tags/video-games"
+              }
+            ],
+            "readingTime": 10.47,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "ulfric-is-a-bad-boy"
+          ]
+        }
+      ],
+      "blogTags": {
+        "skyrim": {
+          "name": "skyrim",
+          "items": [
+            "ulfric-is-a-bad-boy"
+          ],
+          "permalink": "/blog/tags/skyrim"
+        },
+        "video-games": {
+          "name": "video games",
+          "items": [
+            "ulfric-is-a-bad-boy"
+          ],
+          "permalink": "/blog/tags/video-games"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
