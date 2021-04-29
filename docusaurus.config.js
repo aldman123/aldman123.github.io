@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'aldBlog',
-  tagline: 'Casting spells and painfully aware of my fails',
+  tagline: 'Ramblings of My Mind',
   url: 'https://aldman123.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',

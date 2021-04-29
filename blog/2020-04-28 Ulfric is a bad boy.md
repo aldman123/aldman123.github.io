@@ -7,7 +7,7 @@ author_image_url: https://avatars.githubusercontent.com/u/11451815?s=60&v=4
 tags: [skyrim, video games]
 ---
 
-I recently replayed Skyrim for the first time since I was 2014. I vividly remember battling for the rebellion. I remember fighting the evil Empire with rebels at my side. I remember slaying dragons with my sword and shield. What I don't remember is all the Nordic racism.
+I recently replayed Skyrim for the first time since 2014. I vividly remember battling for the rebellion. I remember fighting the evil Empire with rebels at my side. I remember slaying dragons with my sword and shield. What I don't remember is all the Nordic racism.
 
 # First some context
 *The Elder Scrolls V: Skyrim* is a first-person fantasy roleplaying game from *Bethesda Softworks* initially released in 2011. Being the fifth game in the series, there's certainly an abundance of history and context to the game and the series as a whole. I have not played any previous games in the *Elder Scrolls* series, but I plan on playing the third (Morrowind) and fourth (Oblivion) games soon. The game is set in a Viking like land called Skyrim, where local Nords rebel against the Empire and its imperial citizens, but soon the player discovers dragons attacking, and they must save the world.
