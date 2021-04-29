@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Media',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Read my ramblings on various books, video games, movies, or television I'm passionate about.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Table Top',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I play Dungeons and Dragons twice a week, and I love discussing the intricacies of rules, systems, and play styles.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Computer Science',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I study Computer Science at the University of Victoria. I love language paradimes and various problem solving techniques.
       </>
     ),
   },

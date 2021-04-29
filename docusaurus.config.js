@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'aldBlog',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Casting spells and painfully aware of my fails',
   url: 'https://aldman123.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -19,9 +19,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'welcome',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Welcome',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -35,46 +35,37 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Pages',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Welcome',
+              to: '/docs/welcome',
             },
+            {
+              label: 'Blog',
+              to: '/blog'
+            }
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/aldman123',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/user/Aldman123',
+            },
+            {
+              label: 'alexander@aldridge.ca',
+              href: 'mailto:alexander@aldridge.ca',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Alexander Aldridge. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -83,15 +74,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/aldman123/aldman123.github.io',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/aldman123/aldman123.github.io/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
