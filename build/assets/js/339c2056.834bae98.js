@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{81:function(i){i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\\\\[Draft\\\\] Ulfric is a bad, despite Skyrim convincing you otherwise","permalink":"/blog/ulfric-is-a-bad-boy"}]}')}}]);
