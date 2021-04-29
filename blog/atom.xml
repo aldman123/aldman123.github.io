@@ -8,24 +8,10 @@
     <subtitle>aldBlog Blog</subtitle>
     <icon>https://aldman123.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://aldman123.github.io/blog/welcome"/>
+        <title type="html"><![CDATA[Ulfric is a bad man, and Skyrim doesn't make that interesting]]></title>
+        <id>ulfric-is-a-bad-boy</id>
+        <link href="https://aldman123.github.io/blog/ulfric-is-a-bad-boy"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://aldman123.github.io/blog/hello-world"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://aldman123.github.io/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <summary type="html"><![CDATA[I recently replayed Skyrim for the first time since I was 2014. I vividly remember battling for the rebellion, fighting the evil Empire, and having a grand old time. I don't remember all the racism.]]></summary>
     </entry>
 </feed>
