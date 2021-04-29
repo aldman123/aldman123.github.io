@@ -2,13 +2,13 @@
 module.exports = {
   title: 'aldBlog',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/aldman123/aldman123.github.io',
+  url: 'https://aldman123.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'aldman123', // Usually your GitHub org/user name.
-  projectName: 'aldman123.github.io', // Usually your repo name.
+  organizationName: 'aldman123',
+  projectName: 'aldman123.github.io',
   themeConfig: {
     navbar: {
       title: 'aldBlog',
